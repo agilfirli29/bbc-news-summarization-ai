@@ -22,24 +22,6 @@ This project aims to analyze and summarize BBC News articles using the IBM Grani
 
 ---
 
-## 🧪 Analysis Process
-
-1. **Data Preprocessing**  
-   - Load dataset, clean null values, keep relevant columns
-
-2. **Exploratory Data Analysis (EDA)**  
-   - Analyze article lengths, generate WordCloud
-
-3. **Summarization with IBM Granite**  
-   - Use model `ibm-granite/granite-3.3-8b-instruct` via Replicate API  
-   - Provide prompt for summarizing each article  
-   - Configure parameters (max_tokens, top_p, etc.)
-
-4. **Insight Comparison**  
-   - Compare generated summaries with original human summaries
-
----
-
 ## 🧠 Insight & Findings
 
 - IBM Granite provides fluent, relevant one-paragraph summaries.
