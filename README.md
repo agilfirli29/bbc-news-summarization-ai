@@ -30,14 +30,6 @@ This project aims to analyze and summarize BBC News articles using the IBM Grani
 
 ---
 
-## 💡 Recommendations
-
-- IBM Granite is effective for summarizing large text datasets.
-- Useful for news curators, researchers, and information systems.
-- AI output should be reviewed for factual accuracy in critical use cases.
-
----
-
 ## 🤖 AI Support Explanation
 
 - **Model**: `ibm-granite/granite-3.3-8b-instruct`  
