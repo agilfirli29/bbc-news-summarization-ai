@@ -14,7 +14,7 @@ This project aims to analyze and summarize BBC News articles using the IBM Grani
 ## 📊 Dataset
 
 - **Dataset Name**: BBC News Summary Dataset  
-- **Source**: [Kaggle Dataset](https://www.kaggle.com/datasets/pariza/bbc-news-summary)  
+- **Source**: [Kaggle Dataset](https://www.kaggle.com/datasets/dignity45/bbc-news-summarycsv-format)
 - **Description**: 2,225 BBC News articles with human-written summaries  
 - **Columns**:
   - `Text`: Full news article
